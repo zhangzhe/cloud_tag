@@ -5,3 +5,6 @@ How to use:
 2.Use in view: <%= cloud_tag(tag_link_hash, height = "240", width="200") %>
   *height* and *width* are optional.
   *tag_link_hash* should be like {"tag1" => "www.tag1.com", "tag2" => "www.tag2.com"}
+  
+Exmple see:
+http://zhangzhe.heroku.com/example/cloud_tag.html
