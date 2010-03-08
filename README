@@ -6,7 +6,7 @@ How to use:
   *height* and *width* are optional.
   *tag_link_hash* should be like {"tag1" => "www.tag1.com", "tag2" => "www.tag2.com"}
   
-Exmple see:
+Example see:
 http://zhangzhe.heroku.com/example/cloud_tag.html
 
 Bugs:
