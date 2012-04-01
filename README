@@ -1,15 +1,16 @@
+== Welcome to CloudTag
+
 Show tags as cloud in rails, flash from "http://www.tag-cloud.de/wpcloud/?r=tag_cloud"
 
-How to use:
+Use:
 1.puts cloud_tag into vendor/plugins
 2.Use in view: <%= cloud_tag(tag_link_hash, height = "240", width="200") %>
   *height* and *width* are optional.
   *tag_link_hash* should be like {"tag1" => "www.tag1.com", "tag2" => "www.tag2.com"}
 
-Example see:
+Exampl:
 http://zhangzhe.heroku.com/example/cloud_tag.html
 
 Bugs:
 All Chinese char tags can not show.
 
-I am back.
